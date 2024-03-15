@@ -1,7 +1,5 @@
 # Linked List that is Sorted Alternatingly
 ## Medium
-Share your experience with the world! Submit your admission, interview, campus or any other experience and reach an audience of millions today!
-
 You are given a Linked list of size n. The list is in alternating ascending and descending orders. Sort the given linked list in non-decreasing order.
 
 ## Example 1:
