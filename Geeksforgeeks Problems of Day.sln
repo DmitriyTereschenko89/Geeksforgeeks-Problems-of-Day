@@ -5,7 +5,9 @@ VisualStudioVersion = 17.9.34616.47
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Linked List that is Sorted Alternatingly", "Linked List that is Sorted Alternatingly\Linked List that is Sorted Alternatingly.csproj", "{1754C64A-6C92-46B2-8E17-4493104762BC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum of nodes on the longest path from root to leaf node", "Sum of nodes on the longest path from root to leaf node\Sum of nodes on the longest path from root to leaf node.csproj", "{B74D72C0-1573-4EA0-A3CA-1127FBCEDC18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sum of nodes on the longest path from root to leaf node", "Sum of nodes on the longest path from root to leaf node\Sum of nodes on the longest path from root to leaf node.csproj", "{B74D72C0-1573-4EA0-A3CA-1127FBCEDC18}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Print N-bit binary numbers having more 1s than 0s", "Print N-bit binary numbers having more 1s than 0s\Print N-bit binary numbers having more 1s than 0s.csproj", "{A0B7D397-F435-4EB0-B7F3-E1DC56D79324}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B74D72C0-1573-4EA0-A3CA-1127FBCEDC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B74D72C0-1573-4EA0-A3CA-1127FBCEDC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B74D72C0-1573-4EA0-A3CA-1127FBCEDC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0B7D397-F435-4EB0-B7F3-E1DC56D79324}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0B7D397-F435-4EB0-B7F3-E1DC56D79324}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0B7D397-F435-4EB0-B7F3-E1DC56D79324}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0B7D397-F435-4EB0-B7F3-E1DC56D79324}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
