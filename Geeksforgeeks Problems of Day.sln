@@ -49,7 +49,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mobile numeric keypad", "Mo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Prime Pair with Target Sum", "Prime Pair with Target Sum\Prime Pair with Target Sum.csproj", "{3A8AC382-EBE5-4376-9C9E-3CA3C34FA8CA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Compare two fractions", "Compare two fractions\Compare two fractions.csproj", "{75AF1481-1C74-4A2B-A7C2-F78F7A6CCCCD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Compare two fractions", "Compare two fractions\Compare two fractions.csproj", "{75AF1481-1C74-4A2B-A7C2-F78F7A6CCCCD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Print Bracket Number", "Print Bracket Number\Print Bracket Number.csproj", "{62395D8E-EC56-485C-852A-FB96D5ECB757}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Maximum Connected group", "Maximum Connected group\Maximum Connected group.csproj", "{585EC409-F707-4325-81BC-41BB674C8265}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shortest Path in Weighted undirected graph", "Shortest Path in Weighted undirected graph\Shortest Path in Weighted undirected graph.csproj", "{3C8450DF-CFA5-47FB-88AB-AFEF5B5DE547}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smallest number", "Smallest number\Smallest number.csproj", "{5870B160-AE08-49C5-B551-A11355BEFC8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construct Binary Tree from Parent Array", "Construct Binary Tree from Parent Array\Construct Binary Tree from Parent Array.csproj", "{F3475D4E-7E15-45B3-BE74-A75BA359320A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -153,6 +163,26 @@ Global
 		{75AF1481-1C74-4A2B-A7C2-F78F7A6CCCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75AF1481-1C74-4A2B-A7C2-F78F7A6CCCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75AF1481-1C74-4A2B-A7C2-F78F7A6CCCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62395D8E-EC56-485C-852A-FB96D5ECB757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62395D8E-EC56-485C-852A-FB96D5ECB757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62395D8E-EC56-485C-852A-FB96D5ECB757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62395D8E-EC56-485C-852A-FB96D5ECB757}.Release|Any CPU.Build.0 = Release|Any CPU
+		{585EC409-F707-4325-81BC-41BB674C8265}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{585EC409-F707-4325-81BC-41BB674C8265}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{585EC409-F707-4325-81BC-41BB674C8265}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{585EC409-F707-4325-81BC-41BB674C8265}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C8450DF-CFA5-47FB-88AB-AFEF5B5DE547}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8450DF-CFA5-47FB-88AB-AFEF5B5DE547}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8450DF-CFA5-47FB-88AB-AFEF5B5DE547}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8450DF-CFA5-47FB-88AB-AFEF5B5DE547}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5870B160-AE08-49C5-B551-A11355BEFC8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5870B160-AE08-49C5-B551-A11355BEFC8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5870B160-AE08-49C5-B551-A11355BEFC8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5870B160-AE08-49C5-B551-A11355BEFC8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3475D4E-7E15-45B3-BE74-A75BA359320A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3475D4E-7E15-45B3-BE74-A75BA359320A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3475D4E-7E15-45B3-BE74-A75BA359320A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3475D4E-7E15-45B3-BE74-A75BA359320A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
