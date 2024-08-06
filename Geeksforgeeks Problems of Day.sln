@@ -59,7 +59,23 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shortest Path in Weighted u
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Smallest number", "Smallest number\Smallest number.csproj", "{5870B160-AE08-49C5-B551-A11355BEFC8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Construct Binary Tree from Parent Array", "Construct Binary Tree from Parent Array\Construct Binary Tree from Parent Array.csproj", "{F3475D4E-7E15-45B3-BE74-A75BA359320A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Construct Binary Tree from Parent Array", "Construct Binary Tree from Parent Array\Construct Binary Tree from Parent Array.csproj", "{F3475D4E-7E15-45B3-BE74-A75BA359320A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Form a palindrome", "Form a palindrome\Form a palindrome.csproj", "{EA678139-25F2-4865-B1B6-5E06F9943232}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Row with max 1s", "Row with max 1s\Row with max 1s.csproj", "{F55A4015-BC09-4A66-8809-35331E73011D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Rat in a Maze Problem - I", "Rat in a Maze Problem - I\Rat in a Maze Problem - I.csproj", "{559FDDBF-8218-4EA3-A43A-A066C065874A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Spirally traversing a matrix", "Spirally traversing a matrix\Spirally traversing a matrix.csproj", "{7F11E2A0-48A7-4F86-9121-8FDFF35A860F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "The Celebrity Problem", "The Celebrity Problem\The Celebrity Problem.csproj", "{E7792F62-A81D-44F1-BD74-ED283183B5A3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "N meetings in one room", "N meetings in one room\N meetings in one room.csproj", "{646BF967-82C2-4AF6-A3F8-D368F44A22DB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bottom View of Binary Tree", "Bottom View of Binary Tree\Bottom View of Binary Tree.csproj", "{EB73A9A8-5057-49FC-81F3-9DCD4A57AB6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Validate an IP Address", "Validate an IP Address\Validate an IP Address.csproj", "{411B3758-C7B4-48C7-89BA-72198CF95E06}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,6 +199,38 @@ Global
 		{F3475D4E-7E15-45B3-BE74-A75BA359320A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3475D4E-7E15-45B3-BE74-A75BA359320A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3475D4E-7E15-45B3-BE74-A75BA359320A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA678139-25F2-4865-B1B6-5E06F9943232}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA678139-25F2-4865-B1B6-5E06F9943232}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA678139-25F2-4865-B1B6-5E06F9943232}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA678139-25F2-4865-B1B6-5E06F9943232}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F55A4015-BC09-4A66-8809-35331E73011D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F55A4015-BC09-4A66-8809-35331E73011D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F55A4015-BC09-4A66-8809-35331E73011D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F55A4015-BC09-4A66-8809-35331E73011D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{559FDDBF-8218-4EA3-A43A-A066C065874A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{559FDDBF-8218-4EA3-A43A-A066C065874A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{559FDDBF-8218-4EA3-A43A-A066C065874A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{559FDDBF-8218-4EA3-A43A-A066C065874A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F11E2A0-48A7-4F86-9121-8FDFF35A860F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F11E2A0-48A7-4F86-9121-8FDFF35A860F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F11E2A0-48A7-4F86-9121-8FDFF35A860F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F11E2A0-48A7-4F86-9121-8FDFF35A860F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7792F62-A81D-44F1-BD74-ED283183B5A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7792F62-A81D-44F1-BD74-ED283183B5A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7792F62-A81D-44F1-BD74-ED283183B5A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7792F62-A81D-44F1-BD74-ED283183B5A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{646BF967-82C2-4AF6-A3F8-D368F44A22DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{646BF967-82C2-4AF6-A3F8-D368F44A22DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{646BF967-82C2-4AF6-A3F8-D368F44A22DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{646BF967-82C2-4AF6-A3F8-D368F44A22DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB73A9A8-5057-49FC-81F3-9DCD4A57AB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB73A9A8-5057-49FC-81F3-9DCD4A57AB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB73A9A8-5057-49FC-81F3-9DCD4A57AB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB73A9A8-5057-49FC-81F3-9DCD4A57AB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{411B3758-C7B4-48C7-89BA-72198CF95E06}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{411B3758-C7B4-48C7-89BA-72198CF95E06}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{411B3758-C7B4-48C7-89BA-72198CF95E06}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{411B3758-C7B4-48C7-89BA-72198CF95E06}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
